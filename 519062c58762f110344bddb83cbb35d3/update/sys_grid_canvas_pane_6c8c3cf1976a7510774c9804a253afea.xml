@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Testing text word cl - New Tab">fba39c289722bd50774c9804a253af71</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 2023-11-16 21:47:14">e48c3cf1976a7510774c9804a253afe7</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>arjun.ayyappan@snc</sys_created_by>
+        <sys_created_on>2023-11-17 05:47:14</sys_created_on>
+        <sys_id>6c8c3cf1976a7510774c9804a253afea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>fba39c289722bd50774c9804a253af71</sys_name>
+        <sys_package display_value="MyGlobalApp" source="519062c58762f110344bddb83cbb35d3">519062c58762f110344bddb83cbb35d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyGlobalApp">519062c58762f110344bddb83cbb35d3</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_6c8c3cf1976a7510774c9804a253afea</sys_update_name>
+        <sys_updated_by>arjun.ayyappan@snc</sys_updated_by>
+        <sys_updated_on>2023-11-17 05:50:27</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>
